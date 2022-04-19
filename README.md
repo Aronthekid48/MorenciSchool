@@ -1,3 +1,3 @@
 # retro-bowl  
-  
-https://bowl-retro.vercel.app/
+
+go to this repo's github pages
